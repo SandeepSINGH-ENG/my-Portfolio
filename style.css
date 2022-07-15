@@ -39,7 +39,7 @@
 
 .header {
     padding: 15px 43px;
-    color: white;
+    color: #FFFFFF;
     position: fixed;
     width: 100%;
     background: #121212;
@@ -61,7 +61,6 @@ img#my-profile {
     width: 85%;
     margin: auto;
     padding-top: 95px;
-    /* filter: grayscale(1); */
 }
 
 .floating {
@@ -69,7 +68,7 @@ img#my-profile {
     top: 50%;
     transform: translateY(-50%);
     padding: 43px;
-    color: white;
+    color: #FFFFFF;
 }
 
 .intro h1 {
@@ -114,7 +113,6 @@ img#my-profile {
 
 .image-about img {
     width: 50%;
-    /* filter: grayscale(1); */
 }
 
 .image-about {
@@ -126,7 +124,7 @@ img#my-profile {
     top: 50%;
     transform: translateY(-50%);
     width: 73%;
-    color: white;
+    color: #FFFFFF;
 }
 
 .float-about h3 {
@@ -157,7 +155,7 @@ div#skills h1,
 div#por h1,
 div#con h1 {
     text-align: center;
-    color: white;
+    color: #FFFFFF;
     text-transform: uppercase;
     position: relative;
     margin-bottom: 43px;
@@ -190,7 +188,7 @@ div#about-me {
     border-radius: 5px;
     box-shadow: 3px 3px 8px 3px #00000029;
     margin: 20px;
-    color: white;
+    color: #FFFFFF;
 }
 
 .path {
@@ -200,7 +198,7 @@ div#about-me {
 }
 
 .src {
-    background: white;
+    background: #FFFFFF;
     height: 10px;
     width: 98%;
     border-radius: 50px;
@@ -221,7 +219,7 @@ div#home {
 
 .info-project a {
     padding: 0px 13px;
-    color: white;
+    color: #FFFFFF;
     font-size: 13px;
 }
 .slide-work {
@@ -230,7 +228,7 @@ div#home {
     border-radius: 5px;
     box-shadow: 3px 3px 8px 3px #00000029;
     margin: 20px;
-    color: white;
+    color: #FFFFFF;
     position: relative;
 }
 
@@ -250,7 +248,7 @@ div#home {
 }
 
 .info-project {
-    background-image: linear-gradient(to top, black, #1e1e1e70);
+    background-image: linear-gradient(to top, #000000, #1e1e1e70);
     overflow: hidden;
     height: 0;
 }
@@ -271,7 +269,7 @@ div#home {
     left: -30px;
     transform: translateY(-50%);
     z-index: 9999;
-    background: white;
+    background: #FFFFFF;
     padding: 10px;
     height: 20px;
     width: 20px;
@@ -287,7 +285,7 @@ div#home {
     right: -30px;
     transform: translateY(-50%);
     z-index: 9999;
-    background: white;
+    background: #FFFFFF;
     padding: 10px;
     height: 20px;
     width: 20px;
@@ -308,21 +306,21 @@ div#home {
 
 .proc ul li a,
 .proc a {
-    color: white;
+    color: #FFFFFF;
     padding-right: 23px;
     text-decoration: none;
 }
 
 footer {
     text-align: center;
-    color: white;
+    color: #FFFFFF;
     padding: 30px;
     background: #1e1e1e;
     border-top: 1px solid #404040;
 }
 
 .nav-list ul li a {
-    color: white;
+    color: #FFFFFF;
     text-decoration: none;
 }
 #home, #skills, #por, #con, div#about-me .flex{
@@ -339,7 +337,7 @@ html {
 }
 @media only screen and (max-width: 600px) {
     .nav-list.w-6 {
-        border-bottom: 1px solid white;
+        border-bottom: 1px solid #FFFFFF;
         padding-bottom: 11px;
     }
 .w-5, .w-2, .w-3, .w-4, .w-6, .w-7, .w-8 {
@@ -379,14 +377,14 @@ div#skills, div#con {
 .next {
     right: 20px;
     background: transparent;
-    color: white;
+    color: #FFFFFF;
     border: 1px solid;
 }
 .pre {
     position: absolute;
     left: 20px;
     background: transparent;
-    color: white;
+    color: #FFFFFF;
     border: 1px solid;
 }
 .info-project{
